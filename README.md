@@ -7,9 +7,9 @@
 
 ## About me
 
-<img align="left" height="150" src="./assets/image.jpg"  />
+<img align="left" height="150" src="./assets/miles.png"  />
 <div>
-  <p>📍 <strong>Barranquilla, ON</strong></p>
+  <p>📍 <strong>Barranquilla, Colombia</strong></p>
   <p>💻 <strong>Currently building</strong> <a href="https://github.com/RonaldDavidMartinezMarenco/data-viento">Data Viento</a>
   <p>⚙️ <strong>Passionate about</strong> ML STUFF</p>
   <p>🕹️ <strong>Recently obsessed with</strong> AI, Backend, Automation</p>
@@ -35,8 +35,8 @@
 
 ### DevOps
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Cgithub%2Ck8s%2Clinux">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker%2Cgithub%2Ck8s%2Clinux&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Cgithub%2Clinux">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker%2Cgithub%2Clinux&theme=light">
   <img src="https://skillicons.dev/icons?i=docker,github,linux" alt="docker,github,linux"/>
 </picture>
 
