@@ -7,7 +7,7 @@
 
 ## About me
 
-<img align="left" height="150" src="./assets/miles.png"  />
+<img align="left" height="150" src="./assets/killer_bee.png"  />
 <div>
   <p>📍 <strong>Barranquilla, Colombia</strong></p>
   <p>💻 <strong>Currently building</strong> <a href="https://github.com/RonaldDavidMartinezMarenco/data-viento">Data Viento</a>
