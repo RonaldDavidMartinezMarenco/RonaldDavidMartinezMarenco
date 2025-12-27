@@ -3,7 +3,7 @@
 [![Email Me](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:ronaldavidmm2006@gmail.com
 )
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/ronald-m/)
-[![Resume](https://img.shields.io/static/v1?message=Resume&logo=readme&label=&color=000&logoColor=white&labelColor=&style=for-the-badge)]()
+[![Resume](https://img.shields.io/static/v1?message=Resume&logo=readme&label=&color=000&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/RonaldDavidMartinezMarenco/resume/blob/main/main.pdf)
 
 ## About me
 
