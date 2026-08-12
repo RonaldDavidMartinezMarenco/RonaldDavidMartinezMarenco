@@ -12,7 +12,7 @@
   <p>📍 <strong>Barranquilla, Colombia</strong></p>
   <p>⚙️ <strong>Passionate about</strong> ML STUFF</p>
   <p>🌀 <strong>Recently obsessed with</strong> AI, Backend, Automation</p>
-  <p>😔 <strong>Plese look my projects</strong> You are going to love them 😰</p>
+  <p>😔 <strong>look my projects</strong> You are going to love them 😰</p>
 
    <p>💻 <strong>Currently building</strong></p>
   <ul>
