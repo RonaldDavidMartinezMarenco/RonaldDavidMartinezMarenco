@@ -10,14 +10,12 @@
 <img align="left" height="150" src="./assets/killer_bee.png"  />
 <div>
   <p>📍 <strong>Barranquilla, Colombia</strong></p>
-  <p>⚙️ <strong>Passionate about</strong> ML STUFF</p>
-  <p>🌀 <strong>Recently obsessed with</strong> AI, Backend, Automation</p>
+  <p>⚙️ <strong>Passionate about</strong> ML & Automation</p>
+  <p>🌀 <strong>Recently obsessed with</strong> AI & Backend</p>
 
    <p>💻 <strong>Currently building</strong></p>
   <ul>
     <li><a href="https://github.com/RonaldDavidMartinezMarenco/data-viento">💨 Data Viento</a></li>
-    <li><a href="https://github.com/RonaldDavidMartinezMarenco/text-simplifier-Spanish-">📜 Text Simplifier</a></li>
-    <li><a href="https://github.com/RonaldDavidMartinezMarenco/geometry_dash_using_computer_vision">📸 Geomtry Dash with Computer Vision</a></li>
   </ul>
 </div>
 
