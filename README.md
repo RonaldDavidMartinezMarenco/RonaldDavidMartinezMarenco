@@ -12,7 +12,7 @@
 
 🌀 **Currently obsessed with:** AI & Backend.
 
-💻 **Last Build:** [💨 Data Viento](https://github.com/RonaldDavidMartinezMarenco/data-viento)
+💻 **Last Build:** [👁️‍🗨️ Computer Vision Lab](https://github.com/RonaldDavidMartinezMarenco/computer-vision-lab)
 
 🔨 **Currently Working:** Full-Stack Engineer.
 
